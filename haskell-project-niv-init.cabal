@@ -1,0 +1,11 @@
+cabal-version: 1.12
+
+-- This file has been generated from stack.yaml by hpack version 0.34.3.
+--
+-- see: https://github.com/sol/hpack
+
+name:           haskell-project-niv-init
+version:        0.0.0
+license:        BSD3
+license-file:   LICENSE
+build-type:     Simple
