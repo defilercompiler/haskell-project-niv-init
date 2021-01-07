@@ -6,6 +6,7 @@
 4. replace project name in `Makefile and default.nix`
 5. have `.gitignore`
 6. have `niv` installed
-7. run `niv init`
-8. run `direnv allow`
-9. run `make nix-build`
+7. have `nix` installed
+8. run `niv init`
+9. run `direnv allow`
+10. run `make nix-build`
